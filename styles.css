@@ -6,6 +6,13 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+div {
+    padding: 10px;
+    width: 25%;
+    background-color: azure;
+}
+
 a {
     font-size: 50px;
+    text-decoration: none;
 }
